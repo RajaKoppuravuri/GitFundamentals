@@ -7,3 +7,6 @@ sharing remotely is fun
 feature2 branch created 
 statshing changes to feature2
 verifying stash aain
+modified in feature1
+
+ammending git commits
